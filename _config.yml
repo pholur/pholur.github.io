@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Pavan's website
-name: Contact me
+author: Contact me
 email: pholur@ucla.edu
 description: >- # this means to ignore newlines until "baseurl:"
  This is a Jekyll-powered website that hosts my research, blog posts, music 
