@@ -5,6 +5,4 @@
 layout: home
 ---
 
-### Recent Updates
-
 
