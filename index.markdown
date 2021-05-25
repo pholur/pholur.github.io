@@ -5,5 +5,5 @@
 layout: home
 ---
 
-Recent Updates
+## Recent Updates
 
