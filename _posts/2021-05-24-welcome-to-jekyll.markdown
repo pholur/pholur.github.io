@@ -33,5 +33,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 As a hArdwOrKing third-year PhD student at UCLA working on cutting-edge projects in AI/ML, I spend a lot of time conjuring crazy ideas that do not work. But in the process, I have learned a few awesome things (not always related to my field) that I want to share. This website will perhaps serve this purpose.
 
-[An amimated Gif](theory.gif)
+![](/_posts/theory.gif)
 
