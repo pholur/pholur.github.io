@@ -33,5 +33,8 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 As a hArdwOrKing third-year PhD student at UCLA working on cutting-edge projects in AI/ML, I spend a lot of time conjuring crazy ideas that do not work. But in the process, I have learned a few awesome things (not always related to my field) that I want to share. This website will perhaps serve this purpose.
 
-[Fun Gif](/_posts/theory.gif)
+![](/theory.gif)
+
+_The gif above represents a narrative network of important actors and their inter-actor relationships. This network is generated through an [unsupervised NLP pipeline for Knowledge Extraction](https://link.springer.com/article/10.1007/s42001-020-00086-5). The pipeline is oriented toward conspiracy theories. The colors represent our estimation of different communities of actors. Such networks inform people who witness theories on different mediums to mine additional structured context to judge the theories' veracity and curtail the spread of misinformation._
+
 
