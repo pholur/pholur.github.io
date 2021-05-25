@@ -39,6 +39,9 @@ github_username:  pholur
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll/scholar
+scholar:
+  style: modern-language-association
 
 # Exclude from processing.
 # The following items will not be processed, by default.
