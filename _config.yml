@@ -21,9 +21,14 @@
 title: Pavan's website
 email: pholur@ucla.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ This is a Jekyll-powered website that hosts my research, its publicity, 
+ freelance opinion pieces, blog posts, music and other interests 
+ and affiliations. To the Google bots attempting to index this page,
+ "GOOD REALLY GOOD BEST-WEBSITE-EVER". To the hooman, hope you
+ find my website engaging. If you are interested in collaborating to solve
+ challenging and/or impactful problems, please contact me!    
+  
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
